@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A refutuation of Dr. Olyphant's defence of his short discourse of the usefulness of vomiting in fevers</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92338</idno><idno type="EEBO-CITATION">99895737</idno>
+  <idno type="VID">153284</idno>
+  <idno type="EEBO-PROQUEST">2248567342</idno>
+  
+            <idno type="STC">Wing R753</idno>
+            <idno type="STC">ESTC R229932</idno>
+            <idno type="PROQUEST">99895737</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895737e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153284)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A refutuation of Dr. Olyphant's defence of his short discourse of the usefulness of vomiting in fevers</title>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.W. for John Vallange, and sold at his shop a little above the Cross,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>M.DC.XC.IX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oliphant, Charles, d. 1719 --  Early works to 1800.</term>
+               <term type="topical_term">Fever --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153284:1"/>
+            <p>A <hi>REFƲTATION</hi> OF D<seg rend="sup">r.</seg>
+               <hi>Olyphant</hi>'s DEFENCE OF His Short DISCOURSE Of the Usefulness of <hi>Vomiting in</hi> Fevers.</p>
+            <q xml:lang="lat">Turpe est Doctori cum culpa redarguit ipsum.</q>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>J. W.</hi> for <hi>John Vallange,</hi> and Sold at his Shop a little above the Cross. M. DC. XC. IX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153284:2"/>
+            <pb n="3" facs="tcp:153284:2"/>
+            <head>
+               <hi>A Refutation,</hi> &amp;c.</head>
+            <p>SINCE this Defence has little or nothing in it, but what was fully answered before, to the satisfa<g ref="char:EOLhyphen"/>ction of every Impartial Reader, ex<g ref="char:EOLhyphen"/>cept a Mistake about the Matter of Fact, and two or three New Autho<g ref="char:EOLhyphen"/>rities: Therefore I shall insist chief<g ref="char:EOLhyphen"/>ly on these; not for the Convi<g ref="char:EOLhyphen"/>ction of the Wise, but the un<g ref="char:EOLunhyphen"/>deceiving of some well-meaning half-witted People who catch at Shad<g ref="char:EOLhyphen"/>dows. And that I may cut off all Occasions of Scolding, which is the poor Refuge of a routed Argument, and the weak Defence of a desperat Cause, I shall shun every thing that may either startle a Wise-Man or give Umbrage to a very Fool, and leave every Man of common Sense to Judge whose Discourses or Conduct in the whole Affair, savours most ei<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:153284:3"/>of the Lees or Scum and Froth of the People, or of a mean Educati<g ref="char:EOLhyphen"/>on and far meaner Spirit.</p>
+            <p>The First Thing the Dr. takes no<g ref="char:EOLhyphen"/>tice of for disproving the true Account of the Matter of Fact, is, That <hi>a Gentle<g ref="char:EOLhyphen"/>man of undoubted Credit, who was by when the Dr. was called, told, That when Vomiting was first proposed to the Patient, he so far disowned the getting of several Vomits before, that he told the Dr. he was sure it was the only thing would do him good, and that he was sor<g ref="char:EOLhyphen"/>ry he had not call'd him sooner.</hi> Now, tho this has no Relation more or less to the Account of the Matter of Fact given in the Answer, yet I shall touch a little upon it.</p>
+            <p>If the Patient <hi>disowned the getting of any Antimonial Vomits,</hi> he had Rea<g ref="char:EOLhyphen"/>son: But he never disowned that he was Vomited several times with Whey and warm Water drunk in a large quantity; yea the Gentleman of un<g ref="char:EOLhyphen"/>doubted Credit was present when he
+<pb n="5" facs="tcp:153284:3"/>took one of those Vomits. So that this Gentleman's Credit, which was laid out for the Dr. must turn to my Account, since this he saw, and the other he only heard: For one Eye-Witness is better than Ten Ear ones. <hi>If he told the Dr. he was sure it was the only thing would do him good;</hi> I can tell the Dr. that he is very sensible, and I very sure, that it was the only thing did him hurt. <hi>And if he was sorry that he sent not for him sooner;</hi> I am sorry he had so soon Reason to change his Opinion.</p>
+            <p>He appeals next to the Files, Con<g ref="char:EOLhyphen"/>sults the Apothecary and his Man, and finds, as is evident by the Re<g ref="char:EOLhyphen"/>ceipts he has Printed, that the Pati<g ref="char:EOLhyphen"/>ent was only twice Purged, twice Clistered, and got two Emulsions, but nothing of Vomits at all. Which was no very great wonder, since a Thing can hardly be found where it is not. For whoever put Vomits of warm Water and Whey on An Apo<g ref="char:EOLhyphen"/>thecaries
+<pb n="6" facs="tcp:153284:4"/>File: But he Appeals to the File, says the Dr. for to prove the Vomits; but I say no such Appeal is made. For I Appeal to a great ma<g ref="char:EOLhyphen"/>ny Credible Witnesses, and to the File together, for the Proof of the Patients being Vomited, Purged and Clystered. The Witnesses prove the First, and both the Witnesses and File prove the two last. And is not this a great Mysterie, which neither the Dr. nor Apothecary could Compre<g ref="char:EOLhyphen"/>hend: And therefore they publish the Receipts on design to Defame the Or<g ref="char:EOLhyphen"/>dinary; but they have missed their Mark, and the Dr. is catch'd in his own Trap. For by Publishing those Receipts, he tells the World that his Account of the Matter of Fact is false and Disingenuous, and that no Cre<g ref="char:EOLhyphen"/>dit is due to a Man's Testimony, who was not ashamed to Publish so manifest an Untruth as, That <hi>one who had been twice Purged and twice Clistered with Purgative Clisters,</hi>
+               <pb n="7" facs="tcp:153284:4"/>&amp;c. <hi>in so short a time, had got no Me<g ref="char:EOLunhyphen"/>dicine but a Clyster of Milk and Sugar,</hi> and then to have nothing to say for himself, <hi>but that those were not worth the mentioning</hi> (large as much I am sure as a Clister of Milk and Sugar) <hi>because they were no way proportioned to the greatness of the Disease, and that a Man might as reasonably expect to take a Fort with no better Artillery than Pen Guns, as to think to make such Eva<g ref="char:EOLhyphen"/>cuations as were evidently necessary by such ineffectual Medicines.</hi> But such ineffectual Medicines had carryed off a Disease much of the same Nature before in the Patient; I confess indeed they are but Pen-Guns in respect of the Dr's Artillery, the Discharging of which had in stead of taking the Fort, almost split the Cannon: which was no great Mark of a very good Gunner. But I go on.</p>
+            <p>
+               <hi>Those Frightful Symptoms</hi> (says he) <hi>as want of Pulse, Spasms,</hi> &amp;c. <hi>which we are told followed the taking of the
+<pb n="8" facs="tcp:153284:5"/>Vomit, are as false as that the Answerer had given one himself.</hi> Just as false, neither more nor loss for both are very true, if we may believe either the Patients nearest Relations, or Strangers who were Eye Witnesses, who, if they speak any thing but Truth, especially in Relation to those Frightful Symptoms, are very far to blame. But the Symptoms which followed, and continued five days together, were but too evident Marks, that what was said on that Head, was not only a Truth, but a very sad one too.</p>
+            <p>That <hi>the Dr.</hi> (as he says himself) <hi>was not in any great Apprehension,</hi> I very easily believe; for there is no<g ref="char:EOLhyphen"/>thing so Stout as a Blind Mare in a Mire. <hi>But when he and the other Phy<g ref="char:EOLhyphen"/>sician came together, they found him in so Soft and Sound a Sleep, that they stay'd a considerable time before they would disturb him.</hi> This indeed was very Civilly done, for he had been
+<pb n="9" facs="tcp:153284:5"/>but too much disturbed before. But if this Sound Sleep was not a Swoon, (which I shrewdly suspect) I suppose it could not be either very Soft or Sound, since the violent Purging continued till eleven a Clock at Night. But if he Slept so well that Night, what Ne<g ref="char:EOLhyphen"/>cessity was there of giving him a Quieting Draught the Forenoon of the next Day, which the Ordinary pro<g ref="char:EOLhyphen"/>posed, and the Dr. consented to, be<g ref="char:EOLhyphen"/>cause he had Slept none the Night be<g ref="char:EOLhyphen"/>fore. But the Dr. forgot that. Let him e'en mind it better the next time, and remember who it is should have a good Memory. <hi>As for the Dr's leaving the Patient before he saw the Effects of the Vomit,</hi> (says he) <hi>it is of the same Piece with the rest, seing he was actually by him the most part of that Day:</hi> And so he might, and the most part of that Night too, and yet have left him <hi>before he saw the Effects of the Vomit.</hi> For he went away, and was sent for again in all Haste,
+<pb n="10" facs="tcp:153284:6"/>when the Alarm grew so hot, that it was Noised over the City and Sub<g ref="char:EOLhyphen"/>urbs, that the Patient was Agoniz<g ref="char:EOLhyphen"/>ing. And is not this a Witty Evasi<g ref="char:EOLhyphen"/>on?</p>
+            <p>At last, (says the Dr.) <hi>That this is the true Matter of Fact, any Man who will give himself the Trouble to en<g ref="char:EOLhyphen"/>quire, may be satisfied either from the Apothecary, the Gentleman himself, or the Assistants.</hi> And I say, that there is no<g ref="char:EOLhyphen"/>thing true in this Matter of Fact but the Receipts, and those prove the Dr. to be Disingenuous, and that his first Account of the Matter of Fact was false, and that no Credit ought to be given to the second. For what Credit is due to a Man who is not asham'd to contradict himself flatly? For <hi>qui sibi nequam cui bonus.</hi>
+            </p>
+            <p>But if the Dr. will needs have the Matter tryed by Witnesses, let them be lawfully Summoned to declare the Truth. But I must tell him, that I will cast both the Patient, and the
+<pb n="11" facs="tcp:153284:6"/>Apothecary. The former, because (if we may believe himself) he re<g ref="char:EOLhyphen"/>members nothing that pass'd for four or five Days together after the taking the Vomit, and so cannot be sustai<g ref="char:EOLhyphen"/>ned as a Witness. And the latter, be<g ref="char:EOLhyphen"/>cause he cannot purge himself of Par<g ref="char:EOLhyphen"/>tial Counsel. But there is Abundance besides.</p>
+            <p>The Dr. having done with the Mat<g ref="char:EOLhyphen"/>ter of Fact, comes on with a very heavy Charge, <hi>viz.</hi> That he is ac<g ref="char:EOLhyphen"/>cused of Bantering the Scripture, and calling it a Syrophenician Story. Now since I am altogether ignorant where those Expressions are to be found, I should be glad the Dr. would tell me. For all that the Author of the Answer says on that Head, is, <hi>That he will not Dispute with the Dr. Whether the telling of a Stale Jest, or an Antiquated Story, or the breaking of a Dull Jest on the Scripture, and cal<g ref="char:EOLhyphen"/>ling it a Syrophenician Story, throws most Dirt on the Faculty.</hi> But, says
+<pb n="12" facs="tcp:153284:7"/>the Dr, I am the Man you mean. I would gladly know who told him so? Not his Conscience I hope. Truly Good Dr. I mean none but the Guil<g ref="char:EOLhyphen"/>ty; and if you be such, it is none of my Fault, and if you be Innocent, no Body accuses you; but if you will needs accuse your self, that is none of my Business. But if you believe (as you say) those Sacred Truths upon more solid Grounds than any of your Accusers; Show your Faith by your Works, and every Body will believe you: For Words are but Wind, and the Testimony of a Friend is al<g ref="char:EOLhyphen"/>ways to be suspected.</p>
+            <p>But that he may discover this to be a meer Calumny, he says, <hi>That the like has not only been said of him, but of others who he believes are equally Innocent.</hi> And I believe the same thing: and so the Dr. and I in this Point are agreed.</p>
+            <p>I am now come to the Authorities, where I shall not concern my self with
+<pb n="13" facs="tcp:153284:7"/>those I have fully Answered already, but refer the Reader (if he think it worth the while) to the Authors themselves, particularly <hi>Fernel</hi>'s 11 <hi>cap. De Caratione Febrium.</hi> Which Chapter, tho it treats only of a <hi>Ter<g ref="char:EOLhyphen"/>tian</hi> Ague, the Dr: with an unpara<g ref="char:EOLhyphen"/>lell'd Confidence asserts, that it treats of other kinds of Fevers: After which he may say any thing. That the Word <hi>Accessio</hi> is applicable both to Continual and Intermittent Fevers I easily grant; but deny that the Word <hi>Intermissio</hi> which <hi>Fernel</hi> uses in this Chapter, is applicable to any but the latter. By what I have said here of <hi>Fernel,</hi> let the Reader judge of the rest.</p>
+            <p>The first New Authority Cited, is Dr. <hi>Tournfort</hi>'s. But since the Design of it is only to show, That <hi>some Pas<g ref="char:EOLhyphen"/>sages of</hi> Hipp. <hi>ill explain'd has cost ma<g ref="char:EOLhyphen"/>ny their Lives,</hi> it has nothing to do with the present Debate. And if it be so, the good Old Man is no more
+<pb n="14" facs="tcp:153284:8"/>to blame for it, than the Scripture is, which many Wrest and Banter to their own Damnation. The Dr. in<g ref="char:EOLhyphen"/>deed has wrung a Syllogism out of the poor Old Man, which is not to be found in his Works, which was very ill done, for it is a Sin to lie of the Dead.</p>
+            <p>The next Authority is <hi>Celsus, Cap.</hi> 7. <hi>Lib.</hi> 3. Which is so far from fa<g ref="char:EOLhyphen"/>vouring the Dr's Practice, that it fa<g ref="char:EOLhyphen"/>vours his Adversary's more. The Mat<g ref="char:EOLhyphen"/>ter in short is this, The Ancients, particularly <hi>Hipp.</hi> (from whom this Passage of <hi>Celsus</hi> Cited by the Dr. is taken) <hi>Galen, Paulus, Aegineta, &amp;c.</hi> allowed, when a Burning Fever was about the Height, the Patient to Drink his Belly full of cold Water, and if he had a Bitterness in his Mouth, to force himself to Vomit: And whether he did Vomit, or retain the Water, to cover himself well, that he might Sleep and Sweat: So that the princi<g ref="char:EOLhyphen"/>pal Design of this was, not for a Vo<g ref="char:EOLhyphen"/>mit,
+<pb n="15" facs="tcp:153284:8"/>but to procure a Sweat (other<g ref="char:EOLhyphen"/>ways they would have given Warm Water) as may be seen at large in <hi>Ga<g ref="char:EOLhyphen"/>len:</hi> And which <hi>Celsus</hi> expresly ownes in the very Words which follow the Dr's Citation. <hi>Quidam ne Vomitum qui<g ref="char:EOLhyphen"/>dem exigunt, sed ipsa aqua frigida tan<g ref="char:EOLhyphen"/>tum ad satietatem data, pro Medica<g ref="char:EOLhyphen"/>mento utuntur. Ubi utrumlibet factum est, (i. e.</hi> either the one or the o<g ref="char:EOLhyphen"/>ther) <hi>multa veste operiendus est &amp; collocandus ut dormiat. Fereque post longam sitim &amp; vigiliam, post multam satietatem, post infractum calorem ple<g ref="char:EOLhyphen"/>nus somnus venit, ingensque sudor ef<g ref="char:EOLhyphen"/>funditur.</hi> All which has no more Re<g ref="char:EOLhyphen"/>lation to a Vomit which Purged vio<g ref="char:EOLhyphen"/>lently eight or ten Hours, than an Apple has to an Oyster.</p>
+            <p>At last (says the Dr.) I am now safely come to Dr. <hi>Sydenam</hi> (who I am afraid will not Shelter him long) For the very Reference he has made to the <hi>Schedula Monitoria</hi> decides the Controversy: For <hi>Page</hi> 62. he has
+<pb n="16" facs="tcp:153284:9"/>those Words, <hi>Has itaque ob causas, &amp; prudenti uti spero fiducia affirmare lu<g ref="char:EOLhyphen"/>bet, quod dicta methodus curationis per venae sectionem &amp; purgationem ex<g ref="char:EOLhyphen"/>pediendae plus alia quavis</hi> (N.B.) <hi>praesta<g ref="char:EOLhyphen"/>bit in febribus quamplurimarum specie<g ref="char:EOLhyphen"/>rum expugnandis.</hi> Here is not one Word of Vomiting; but he only tells us, that he was confident that this Method of Curing by Blooding and Purging, was more effectual than any other in Curing the most part of Fevers.</p>
+            <p>But why should I trouble my self any more with those Authorities, which I might justly have slighted al<g ref="char:EOLhyphen"/>together: For allowing them the largest Sense they are capable of, they prove nothing but that Vomits, even <hi>Antimonial</hi> ones, may be given in Fevers, which I do not deny, but only say that the Dr's Vomit was neither seasonably nor reasonably given, and that all the Authorities he has brought, or can bring, can neither Justify nor Excuse it: For tho he should
+<pb n="17" facs="tcp:153284:9"/>produce Ten Thousand Authorities to prove, That not only one Ounce of <hi>Emitick Wine,</hi> but two if he pleas<g ref="char:EOLhyphen"/>es, has been given not only in the Ninth day of a Fever, but after, they will all tend to his own Condemna<g ref="char:EOLhyphen"/>tion: For they were either given with Safety, Ease and Sucess to the Pati<g ref="char:EOLhyphen"/>ent, or they were acompanied with great Hazard and Danger, or follow<g ref="char:EOLhyphen"/>ed with Death. If the former, then the Physician acted warily accor<g ref="char:EOLhyphen"/>ding to the Temper, Constitution, and all the other Circumstances of the Patient; and so condemns the Dr's rashness. If the latter, then they were left on record, not for Imitati<g ref="char:EOLhyphen"/>on, but to prevent the like mistakes, as Beakons are set upon blind Rocks to prevent Shipwracks, which yet condemns him more. And it was u<g ref="char:EOLhyphen"/>pon this Consideration of the Patients Temper and Constitution, and all o<g ref="char:EOLhyphen"/>ther Circumstances, that I said, that two Drahms would have been a fit<g ref="char:EOLhyphen"/>ter
+<pb n="18" facs="tcp:153284:10"/>Dose than an Ounce; and the E<g ref="char:EOLhyphen"/>vent proves ito be true.</p>
+            <p>At last he comes to Dr. <hi>P</hi>'s Opini<g ref="char:EOLhyphen"/>on, which he will needs Reconcile with his own (tho they flatly Con<g ref="char:EOLhyphen"/>tradict one another) by telling us that the Dr. in that Discourse only maintains, <hi>That if the Morbifick Mat<g ref="char:EOLhyphen"/>ter to be evacuated be actually mixed with the Blood, and circulating in the Blood Vessels, it will be Ten times sooner Evacuated by Sweating than Purging.</hi> Now, that this is not the Dr's Opinion, any who will be at the trouble to read the Discourse (which in the Preface prefixed to it, is prov'd to be Ten times greater Nonsense than ever any thing was writ before) will be easily Convinced: For there Sweating is proposed as the best and readiest Evacuation for curing all Fe<g ref="char:EOLhyphen"/>vers, without any respect to the Seat of the Morbifick Matter; and it could not be otherways, since it was writ on design to Refute the Purging Me<g ref="char:EOLhyphen"/>thod.
+<pb n="19" facs="tcp:153284:10"/>And therefore, since this Vo<g ref="char:EOLhyphen"/>mit of the Dr's was also a very violent Purge (having wrought <hi>ad animi di<g ref="char:EOLhyphen"/>liquium</hi>) it must still fall under the Censure. And so I leave them to de<g ref="char:EOLhyphen"/>termine the Matter between them<g ref="char:EOLhyphen"/>selves, being altogether indifferent what way it goes.</p>
+            <p>Now I have done, and have en<g ref="char:EOLhyphen"/>deavoured all along, as much as pos<g ref="char:EOLhyphen"/>sible I could, to keep within the Li<g ref="char:EOLhyphen"/>mits of a just Defence; and if in any thing I have Transgress'd, my Adver<g ref="char:EOLhyphen"/>sary is to blame, who Attacked me both unjustly and irregularly, and e<g ref="char:EOLhyphen"/>very Man must defend as he is Attack<g ref="char:EOLhyphen"/>ed. And it is very hard to determine just to a Mathematical Point, how far defensive Arms may go without becoming Offensive. But one thing I am sure of, that if a Thrust cannot be put by without putting home ano<g ref="char:EOLhyphen"/>ther, the Defender is Innocent what<g ref="char:EOLhyphen"/>ever the event of the War be.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153284:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
